@@ -1,0 +1,1 @@
+A simple linear gradient for css backgrounds.  allows the user to pick from two color wheels for the gradient, and prints out the RGB values as they are changed.
